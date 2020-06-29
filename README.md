@@ -2,9 +2,9 @@
 
 
 ## Intro:
-Please write in a single page application that will displays coin details using Vue framework.
-Use Technologies that you consider helpful, but without any css frameworks.
-Application should contain Listing and Detail page.
+Please write in a single page application that will display coin details using Vue framework. 
+Use Technologies that you consider helpful, but without any CSS frameworks.
+The application should contain the Listing and Detail page.
 
 ## Requirements:
 
@@ -20,13 +20,13 @@ Mostly you are interested in endpoints:
 
 ### Listing
 
-Layout: Should contain 3 breakpoints, please use SASS with BEM Methodology without any CSS frameworks (only your own code). Listing should have pager and display 10 items per page)
+Layout: Should contain 3 breakpoints, please use SASS with BEM Methodology without any CSS frameworks (only your code). Listing should have a pager and display 10 items per page)
 Breakpoints:
 * `< 768px` (item in three rows)
 * `>= 768px` (item in two rows)
 * `>= 992px` (item in one row)
  
-### Detail page of Bitcoint (BTC ticker)
+### Detail page of Bitcoin (BTC ticker)
 Layout: Should contain all details from the endpoint, and be optimized for each breakpoint.
 Breakpoints:
 * `< 768px` (items on one column)
